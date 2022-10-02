@@ -1,0 +1,18 @@
+Object Serialization (Pickle,json,yaml) :
+              -----------------------------------------
+              ('Serialization' --> Process of saving an object into the file(json,pickle,yaml) 
+              ('Deserialization') --> Process of reading object from the file(json,pickle,yaml)
+                
+                -> The process of converting an object from python supported form to either file
+                    supported form or network supported form, is called 'Serialization(Marshalinng or pickling)
+                
+                -> The process of converting an object from either file
+                    supported form or network supported form to python supported form to ,
+                    is called " Deserialization(Unmarshaling or Unpickling)  
+            
+               
+                -> Object serialization:
+                    1) Object serialization by using Pickle.
+                    2) Object serialization by using JSON.
+                    3) Object serialization by using YAML.
+          
